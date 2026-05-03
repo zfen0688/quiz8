@@ -10,3 +10,9 @@
 ![fluid](./readmeImages2/image.png)
 
 ## patr2
+- __Programming technique: the Perlin noise algorithm__
+Principle: Perlin noise is a coding technique used to generate smooth, random textures. Unlike standard random functions, the values it generates are spatially continuous, making it ideal for simulating the movement of water ripples, clouds or fluids. __In p5.js, the noise() function__ allows you to easily control colour shifts, enabling the fluid gradient effect mentioned in the first section.
+![effect image](./readmeImages3/image.png)
+
+- [Implementation Link](https://p5js.jp/examples/math-noise1d)
+- [Source Code Link](https://p5js.jp/examples/math-noise1d)
